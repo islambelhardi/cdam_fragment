@@ -2,4 +2,9 @@
     <string name="app_name">Fragment tp</string>
     <string name="challenges">Challenges</string>
     <string name="search_map">Search Map</string>
+    <string name="mail_subheader_title">Mail</string>
+    <string name="inbox_title">inbox</string>
+    <string name="outbox_title">Outbox</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
 </resources>
